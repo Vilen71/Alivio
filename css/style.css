@@ -167,7 +167,7 @@
 }
 
 .release {
-  padding: 169px 0 51px;
+  padding: 110px 0 51px;
 }
 .release__subtitle {
   font-weight: 600;
@@ -185,7 +185,7 @@
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  margin-bottom: 136px;
+  margin-bottom: 86px;
 }
 .release__title {
   max-width: 584px;
